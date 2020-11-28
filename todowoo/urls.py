@@ -25,4 +25,5 @@ urlpatterns = [
 
 
     # TODOS
+    path('current/', views.currenttodos, name='currenttodos'),
 ]
