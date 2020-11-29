@@ -1,6 +1,6 @@
 ## Simplfy Your Todos
-Life is fun. But life is also busy. There's a million different things you could be doing. But what matters is what you do.
-Todo helps you make sense of all of your opportunities and live that life that matters most to you. Your new organized life awaits.
+Life is fun. But life is also busy. There are million of different things you could be doing. But what really matters is what you actually do.
+Todo helps you make sense of all of your opportunities and live that life which matters the most. Your new organized life awaits.
 
 
 
